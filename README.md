@@ -10,8 +10,9 @@ The average claim amount for a male is $687 and the average claim amount for a f
 
 The probability of making a claim by age bracket for males is as follows:
 
-Age   20s	  30s       40s         50s	      60s
-Male	1.00%	  1.50%     3.00%	      5.00%	      8.00%
+Age   20s     30s     40s     50s     60s
+
+Male  1.00%   1.50%   3.00%   5.00%   8.00%
 
 Females are 25% less likely to make a claim at any given age. So, females will always have a lower probability of making a claim.
 
